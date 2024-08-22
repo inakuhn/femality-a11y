@@ -8,7 +8,6 @@ The A11y project is dedicated to ensuring that applications are accessible to al
 2. [🎨 Design Principles](#-design-principles)
 3. [🧪 Testing and Validation](#-testing-and-validation)
 4. [💡 Best Practices](#-best-practices)
-5. [📚 Documentation](#-documentation)
 6. [🤝 Contributing](#-contributing)
 7. [🔗 Resources](#-resources)
 
