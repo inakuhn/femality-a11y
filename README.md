@@ -10,6 +10,7 @@ The A11y project is dedicated to ensuring that applications are accessible to al
 4. [💡 Best Practices](#-best-practices)
 6. [🤝 Contributing](#-contributing)
 7. [🔗 Resources](#-resources)
+8. [🔗 Videos](#-video)
 
 ---
 
@@ -105,3 +106,6 @@ Explore these valuable resources to learn more about accessibility:
 - **Android**: [Make Your Android App More Accessible](https://developer.android.com/courses/pathways/make-your-android-app-accessible), [Accessibility Principles for Android Apps](https://developer.android.com/guide/topics/ui/accessibility/principles?authuser=1), [Testing Android App Accessibility](https://developer.android.com/guide/topics/ui/accessibility/testing), [Android Developers Blog on Accessibility](https://android-developers.googleblog.com/2012/04/accessibility-are-you-serving-all-your-users.html), [Designing Accessible Mobile Apps](https://developer.android.com/design/ui/mobile/guides/foundations/accessibility?hl=en&authuser=1#)
 - **iOS**: [iOS Accessibility Programming Guide](https://developer.apple.com/documentation/uikit/accessibility)
 - **Web**: [What is Accessibility? — IxDF](https://www.interaction-design.org/literature/topics/accessibility)
+
+## 🔗 Video
+European accessiblity act: https://www.youtube.com/live/AHxasDBBskE
