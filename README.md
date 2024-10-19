@@ -8,9 +8,9 @@ The A11y project is dedicated to ensuring that applications are accessible to al
 2. [🎨 Design Principles](#-design-principles)
 3. [🧪 Testing and Validation](#-testing-and-validation)
 4. [💡 Best Practices](#-best-practices)
-6. [🤝 Contributing](#-contributing)
-7. [🔗 Resources](#-resources)
-8. [🔗 Videos](#-video)
+5. [🔗 Resources](#-resources)
+6. [🛠️ Plugins & Tools](#-plugins)
+7. [🤝 Contributing](#-contributing)
 
 ---
 
@@ -85,17 +85,13 @@ For platform-specific guidelines, refer to:
 - **Web**: [WCAG Mobile Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/mobile/)
 
 
-## 🤝 Contributing
-
-Contributions are encouraged to improve accessibility.
-Feel free to create MR with improvements to this README.
-
-
 ## 🔗 Resources
 
 Explore these valuable resources to learn more about accessibility:
 
 - **W3C Web Accessibility Initiative (WAI)**: [W3C Web Accessibility Initiative](https://www.w3.org/WAI/)
+- **WCAG 2.2 Guidelines**: [https://www.w3.org/WAI/standards-guidelines/wcag/]
+- **WCAG Overview**: [https://www.w3.org/WAI/test-evaluate/]
 - **WCAG 2.1 Guidelines**: [WCAG 2.1 Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
 - **Inclusive Design Principles**: [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - **W3C Accessibility Perspective Videos**: [W3C Accessibility Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
@@ -106,6 +102,19 @@ Explore these valuable resources to learn more about accessibility:
 - **Android**: [Make Your Android App More Accessible](https://developer.android.com/courses/pathways/make-your-android-app-accessible), [Accessibility Principles for Android Apps](https://developer.android.com/guide/topics/ui/accessibility/principles?authuser=1), [Testing Android App Accessibility](https://developer.android.com/guide/topics/ui/accessibility/testing), [Android Developers Blog on Accessibility](https://android-developers.googleblog.com/2012/04/accessibility-are-you-serving-all-your-users.html), [Designing Accessible Mobile Apps](https://developer.android.com/design/ui/mobile/guides/foundations/accessibility?hl=en&authuser=1#)
 - **iOS**: [iOS Accessibility Programming Guide](https://developer.apple.com/documentation/uikit/accessibility)
 - **Web**: [What is Accessibility? — IxDF](https://www.interaction-design.org/literature/topics/accessibility)
+- **European accessiblity act**: [https://web-directive.eu/#toc4] [https://www.youtube.com/live/AHxasDBBskE]
 
-## 🔗 Video
-European accessiblity act: https://www.youtube.com/live/AHxasDBBskE
+## 🔗 Plugin & Tools
+- **a11y Check List**: [https://www.a11yproject.com/checklist/]
+- **Web AIM Check List**: [https://webaim.org/standards/wcag/checklist]
+- **a11y-workshop, usefull links, AI prompts and presentation material**: [https://github.com/mpaiva/a11y-workshop/tree/main]
+- **Figma Plugin Include Spec tool from ebay**: [https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations]
+- **Figma Plugin WCAG Plugin, creates a11y guidelines as cards**: [https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin]
+- **Figma Plugin Stark and Chrome Plugin**: [https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker] & [https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm]
+
+
+
+## 🤝 Contributing
+
+Contributions are encouraged to improve accessibility.
+Feel free to create MR with improvements to this README.
