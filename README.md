@@ -9,7 +9,7 @@ The A11y project is dedicated to ensuring that applications are accessible to al
 3. [🧪 Testing and Validation](#-testing-and-validation)
 4. [💡 Best Practices](#-best-practices)
 5. [🔗 Resources](#-resources)
-6. [🛠️ Plugins & Tools](#-plugins)
+6. [🛠️ Plugins & Tools](#-plugins-&-tools)
 7. [🤝 Contributing](#-contributing)
 
 ---
@@ -104,7 +104,7 @@ Explore these valuable resources to learn more about accessibility:
 - **Web**: [What is Accessibility? — IxDF](https://www.interaction-design.org/literature/topics/accessibility)
 - **European accessiblity act**: [https://web-directive.eu/#toc4] [https://www.youtube.com/live/AHxasDBBskE]
 
-## 🔗 Plugin & Tools
+## 🛠️ Plugin & Tools
 - **a11y Check List**: [https://www.a11yproject.com/checklist/]
 - **Web AIM Check List**: [https://webaim.org/standards/wcag/checklist]
 - **a11y-workshop, usefull links, AI prompts and presentation material**: [https://github.com/mpaiva/a11y-workshop/tree/main]
