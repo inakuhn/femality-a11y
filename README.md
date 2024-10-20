@@ -93,12 +93,13 @@ Explore these valuable resources to learn more about accessibility:
 - **W3C Web Accessibility Initiative (WAI)**: [W3C Web Accessibility Initiative](https://www.w3.org/WAI/)
 - **WCAG 2.2 Guidelines**: [https://www.w3.org/WAI/standards-guidelines/wcag/]
 - **WCAG Overview**: [https://www.w3.org/WAI/test-evaluate/]
+- **WCAG Pattern Overview**: A great overview for common patterns https://www.w3.org/WAI/ARIA/apg/patterns/
 - **Inclusive Design Principles**: [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - **W3C Accessibility Perspective Videos**: [W3C Accessibility Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
 - **Understanding Cognitive Accessibility**: [Understanding Cognitive Accessibility](https://www.w3.org/WAI/people-use-web/abilities-barriers/cognitive/)
 - **Accessibility Testing Checklist**: [Accessibility Testing Checklist](https://developer.android.com/guide/topics/ui/accessibility/testing?authuser=1&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fmake-your-android-app-accessible%3Fauthuser%3D1%23article-https%3A%2F%2Fdeveloper.android.com%2Fguide%2Ftopics%2Fui%2Faccessibility%2Ftesting)
 - **Are You Serving All Your Users?**: [Are You Serving All Your Users?](https://android-developers.googleblog.com/2012/04/accessibility-are-you-serving-all-your.html)
-- **All Platforms**: [Accessibility Checklist - MagentaA11y](https://www.magentaa11y.com/) - Provides a comprehensive checklist for accessibility across all platforms.
+- **All Platforms**: Provides a comprehensive checklist for accessibility across all platforms. [Accessibility Checklist - MagentaA11y](https://www.magentaa11y.com/) 
 - **Android**: [Make Your Android App More Accessible](https://developer.android.com/courses/pathways/make-your-android-app-accessible), [Accessibility Principles for Android Apps](https://developer.android.com/guide/topics/ui/accessibility/principles?authuser=1), [Testing Android App Accessibility](https://developer.android.com/guide/topics/ui/accessibility/testing), [Android Developers Blog on Accessibility](https://android-developers.googleblog.com/2012/04/accessibility-are-you-serving-all-your-users.html), [Designing Accessible Mobile Apps](https://developer.android.com/design/ui/mobile/guides/foundations/accessibility?hl=en&authuser=1#)
 - **iOS**: [iOS Accessibility Programming Guide](https://developer.apple.com/documentation/uikit/accessibility)
 - **Web**: [What is Accessibility? — IxDF](https://www.interaction-design.org/literature/topics/accessibility)
@@ -106,11 +107,11 @@ Explore these valuable resources to learn more about accessibility:
 
 ## 🛠️ Plugin and Tools
 
-- **a11y Check List**: https://www.a11yproject.com/checklist/
-- **Web AIM Check List**: https://webaim.org/standards/wcag/checklist
-- **a11y-workshop, usefull links, AI prompts and presentation material**: https://github.com/mpaiva/a11y-workshop/tree/main
-- **Figma Plugin Include Spec tool from ebay**: https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations
-- **Figma Plugin WCAG Plugin, creates a11y guidelines as cards**: https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin
+- **a11y Check List**: Easy to read list https://www.a11yproject.com/checklist/
+- **Web AIM Check List**: Official wcag list https://webaim.org/standards/wcag/checklist
+- **a11y-workshop**: Usefull links, AI prompts and presentation material https://github.com/mpaiva/a11y-workshop/tree/main
+- **Figma Plugin Include**: Spec tool from ebay https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations
+- **Figma Plugin WCAG Plugin**: Creates a11y guidelines as cards https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin
 - **Figma Plugin Stark and Chrome Plugin**: https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker & https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm
 - **Accessbility Posters in German**: https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_de/accessibilty-posters-set-de.pdf
 
