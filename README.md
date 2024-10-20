@@ -91,8 +91,8 @@ For platform-specific guidelines, refer to:
 Explore these valuable resources to learn more about accessibility:
 
 - **W3C Web Accessibility Initiative (WAI)**: [W3C Web Accessibility Initiative](https://www.w3.org/WAI/)
-- **WCAG 2.2 Guidelines**: [https://www.w3.org/WAI/standards-guidelines/wcag/]
-- **WCAG Overview**: [https://www.w3.org/WAI/test-evaluate/]
+- **WCAG 2.2 Guidelines**: https://www.w3.org/WAI/standards-guidelines/wcag/
+- **WCAG Overview**: https://www.w3.org/WAI/test-evaluate/
 - **WCAG Pattern Overview**: A great overview for common patterns https://www.w3.org/WAI/ARIA/apg/patterns/
 - **Inclusive Design Principles**: [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - **W3C Accessibility Perspective Videos**: [W3C Accessibility Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
@@ -107,12 +107,12 @@ Explore these valuable resources to learn more about accessibility:
 
 ## 🛠️ Plugin and Tools
 
-- **a11y Check List**: Easy to read list https://www.a11yproject.com/checklist/
+- **The A11Y Project**: Easy to read & follow check list https://www.a11yproject.com/checklist/
 - **Web AIM Check List**: Official wcag list https://webaim.org/standards/wcag/checklist
-- **a11y-workshop**: Usefull links, AI prompts and presentation material https://github.com/mpaiva/a11y-workshop/tree/main
+- **Designing with Accessibility in Mind Workshop**: Usefull links, AI prompts and presentation material https://github.com/mpaiva/a11y-workshop/tree/main
 - **Figma Plugin Include**: Spec tool from ebay https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations
 - **Figma Plugin WCAG Plugin**: Creates a11y guidelines as cards https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin
-- **Figma Plugin Stark and Chrome Plugin**: https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker & https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm
+- **Figma Plugin Stark and Chrome Plugin**: Make everything accessible from the start. https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker & https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm
 - **Accessbility Posters in German**: https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_de/accessibilty-posters-set-de.pdf
 
 ![accessibilty-posters-set](https://github.com/user-attachments/assets/ef7b03c9-2ee9-43ce-a0db-a0b0ef892494)
